@@ -1,0 +1,6 @@
+{
+    "error": {
+        "userNotFound": "testo user not found",
+        "invalidCredentials": "testo credentials"
+    }
+}

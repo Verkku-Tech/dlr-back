@@ -1,0 +1,6 @@
+{
+    "error": {
+        "userNotFound": "testo es",
+        "invalidCredentials": "testo clave"
+    }
+}
